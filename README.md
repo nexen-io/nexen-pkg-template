@@ -1,1 +1,3 @@
-# nexen-pkg-template
+# nexen-[package]
+
+A [capabiltiy feature] for the nexen framework.
